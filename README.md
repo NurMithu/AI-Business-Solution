@@ -25,6 +25,13 @@ AI/ML Engineer and Machine Learning enthusiast passionate about building intelli
 - 📫 Reach me at **zarictg@gmail.com**
 - ⚡ Fun fact: I love building AI projects that solve real-world problems and contributing to open-source.
 
+
+
+
+
+
+
+
 <br/>
 
 <h2 align="center">🛠️ Languages & Tools</h2>
