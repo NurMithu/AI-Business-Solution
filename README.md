@@ -54,33 +54,25 @@ AI/ML Engineer and Machine Learning enthusiast passionate about building intelli
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
 
+
+
 <br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-<img width="99%" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/github-metrics.svg" alt="GitHub Metrics — stats, top languages, coding habits, contribution calendar"/>
-</p>
+<div align="center">
+  <img src="https://github.com/NurMithu/NurMithu/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
 
 <br/>
 
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/taimourabdulkarim/" target="_blank">
+<a href="https://www.linkedin.com/in/nur-a-alam-b8935a215/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
-<a href="mailto:taimour.a.karim@gmail.com" target="_blank">
+<a href="mailto:zarictg@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>&nbsp;
-<a href="https://www.kaggle.com/taimourabdulkarim" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>&nbsp;
-<a href="https://x.com/tkarim45_" target="_blank">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/tkarim45/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>
 
